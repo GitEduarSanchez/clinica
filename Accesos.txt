@@ -1,0 +1,22 @@
+
+Accesos:
+---------------------------------
+ENFERMERO(A)
+Usuario: DIANA.PEREZ
+clave: DIANA.PEREZ
+---------------------------------
+SECRETARIA
+Usuario: SECRETARIA
+clave: SECRETARIA
+---------------------------------
+TEC RADIOLOGIA
+Usuario: YENNY.RODRIGUEZ
+clave: YENNY.RODRIGUEZ
+---------------------------------
+ADMINISTRADOR(A)
+Usuario: CRISTIAN 
+clave: CRISTIAN 
+---------------------------------
+MÉDICO ESPECIALISTA
+Usuario: ODONTOLOGO
+clave: ODONTOLOGO
